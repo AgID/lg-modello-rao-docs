@@ -354,3 +354,6 @@ Tali sigilli sono utilizzati sia per l’instaurazione di un canale di
 comunicazione tra i predetti soggetti che per sigillare il *token
 completo*.
 
+.. forum_italia::
+   :topic_id: 10757
+
