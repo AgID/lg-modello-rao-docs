@@ -54,12 +54,12 @@ Soggetti destinatari
 
    Le presenti linee guida sono applicabili ai:
 
-a) soggetti di cui all’art. 2, comma 2, lett. a) del CAD che intendono,
+-  a) soggetti di cui all’art. 2, comma 2, lett. a) del CAD che intendono,
    con proprie risorse, effettuare l’identificazione della persona
    fisica, di seguito utente, in qualità di R.A.O. pubblico del sistema
    SPID\ *;*
 
-b) gestori di identità digitale, di seguito IdP, che intendono avvalersi
+-  b) gestori di identità digitale, di seguito IdP, che intendono avvalersi
    delle procedure di identificazione effettuate dai soggetti di cui al
    punto precedente.
 
@@ -243,11 +243,11 @@ Modelli di riferimento
    Sono previsti due modelli di riferimento che i R.A.O. pubblici
    possono mettere a disposizione dell’utente.
 
-a) L’operatore può informare l’utente della possibilità di scegliere il
+-  a) L’operatore può informare l’utente della possibilità di scegliere il
    proprio IdP a sportello, in questo caso il *token sigillato* è
    inviato all’IdP prescelto;
 
-b) In mancanza della predetta possibilità o in caso di mancata scelta da
+-  b) In mancanza della predetta possibilità o in caso di mancata scelta da
    parte dell’utente, il *token sigillato* è inviato all’utente via
    email all’indirizzo di posta elettronica fornito.
 
