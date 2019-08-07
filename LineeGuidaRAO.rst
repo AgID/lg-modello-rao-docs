@@ -356,4 +356,5 @@ completo*.
 
 .. forum_italia::
    :topic_id: 10757
+   :scope: document
 
