@@ -781,3 +781,6 @@ Json Schema per Response Payload
      }
    }
 
+.. forum_italia::
+   :topic_id: 10758
+   :scope: document
