@@ -14,6 +14,6 @@ expired token 7            spiacenti, sono passati più di 30 giorni dall’iden
 generic error 100          spiacenti,si è verificato un errore.                                                                                     403         SI                SI                                      SI
 ============= ============ ======================================================================================================================== =========== ================= ======================================= =======================================
 
-.. |image0| image:: media/image1.png
-   :width: 2.11979in
-   :height: 1.03612in
+.. forum_italia::
+   :topic_id: 10759
+   :scope: document
