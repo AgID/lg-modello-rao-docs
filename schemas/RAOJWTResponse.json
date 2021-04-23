@@ -1,0 +1,39 @@
+{
+  "definitions": {},
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "required": [
+    "iss",
+    "sub",
+    "jti",
+    "aud",
+    "iat",
+    "responseCode",
+    "responseMessage"
+  ],
+  "properties": {
+    "iss": {
+      "type": "string"
+    },
+    "sub": {
+      "type": "string"
+    },
+    "jti": {
+      "type": "string"
+    },
+    "aud": {
+      "type": "string"
+    },
+    "iat": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "responseCode": {
+      "type": "number",
+      "minimum": 1
+    },
+    "errorMessage": {
+      "type": "string"
+    }
+  }
+}
